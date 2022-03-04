@@ -1,3 +1,6 @@
 [submodule "Part 1"]
 	path = Part 1
 	url = https://github.com/ramirsultanov/edu-robotics-1.git
+[submodule "Part 2"]
+	path = Part 2
+	url = git@github.com:ramirsultanov/edu-robotics-2.git
