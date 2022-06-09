@@ -25,3 +25,6 @@
 [submodule "Part 8"]
 	path = Part 8
 	url = git@github.com:ramirsultanov/edu-robotics-8.git
+[submodule "Part 10"]
+	path = Part 10
+	url = git@github.com:ramirsultanov/edu-robotics-10.git
